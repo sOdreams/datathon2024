@@ -102,4 +102,3 @@ Refer to the [scikit-learn accuracy score documentation](https://scikit-learn.or
 - [Image preprocessing with TensorFlow/Keras](https://www.tensorflow.org/tutorials/images)
 - [CSV File Handling in Python](https://pandas.pydata.org/docs/)
 
-Good luck and happy modeling!
